@@ -1,5 +1,5 @@
 # windows-privilege-escalation-lab
-Performed Windows privilege escalation techniques in a controlled lab environment using PowerShell, winPEAS, and Windows misconfiguration analysis. Investigated privilege escalation opportunities, validated detection visibility through Sysmon and Splunk telemetry, and documented findings and remediation guidance.
+Performed Windows privilege escalation techniques in a controlled lab environment using PowerUp, PowerShell, and Windows service misconfiguration analysis. Identified vulnerable service configurations, validated privilege escalation paths from a low-privileged user context, and investigated activity through Sysmon and Splunk telemetry while documenting findings, detections, and remediation guidance.
 
 
 ---
